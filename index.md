@@ -37,28 +37,28 @@ tagline: Set of scalable open-source solutions for building data platform
     <h1 style="margin-bottom: 150px;">Ecco Data platform</h1>
     <div class="row">
          <div class ="column">
-            <a href="/arcane-docs"> <img src="images/arcane-logo.png" width="100" height="100"></a>
+            <img src="images/arcane-logo.png" width="100" height="100">
             <div style="margin-top: 15px">
             <a class="btn btn-lg btn-primary" href="/arcane-docs">Arcane</a>
             <p>Stream-based horizontally scalable data ingestion platform</p>
             </div>
         </div>
          <div class ="column">
-            <a href="/arcane-docs"> <img src="images/beast-logo.png" width="100" height="100"></a>
+            <img src="images/beast-logo.png" width="100" height="100">
             <div style="margin-top: 15px">
             <a class="btn btn-coming-soon" href="/beast-docs">Beast</a>
             <p>Kubernetes workload manager for Spark based on Akka.NET</p>
             </div>
         </div>
          <div class ="column">
-            <a href="/arcane-docs"> <img src="images/crystal-logo.png" width="100" height="100"></a>
+            <img src="images/crystal-logo.png" width="100" height="100">
             <div style="margin-top: 15px">
             <a class="btn btn-coming-soon" href="/crystal-docs">Crystal</a>
             <p>High-performance runner for containerized machine learning algorithms.</p>
             </div>
         </div>
          <div class ="column">
-            <a href="/arcane-docs"> <img src="images/boxer-logo.png" width="100" height="100"></a>
+            <img src="images/boxer-logo.png" width="100" height="100">
             <div style="margin-top: 15px">
             <a class="btn btn-coming-soon" href="/boxer-docs">Boxer</a>
             <p>Authorization API with Signature Based Authentication Provider</p>
