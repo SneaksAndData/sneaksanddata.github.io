@@ -11,6 +11,18 @@ tagline: Set of scalable open-source solutions for building data platform
   pointer-events: none;
 }
 
+[data-bs-theme='dark'] .txt-coming-soon {
+  color: rgb(227,255,215);
+  border-style: dotted;
+  border-radius: 7px;
+}
+
+.txt-coming-soon {
+  color: rgb(0,0,0);
+  border-style: dotted;
+  border-radius: 7px;
+}
+
 .column {
   float: left;
   width: 25%;
@@ -40,29 +52,32 @@ tagline: Set of scalable open-source solutions for building data platform
             <img src="images/arcane-logo.png" width="100" height="100">
             <div style="margin-top: 15px">
             <a class="btn btn-lg btn-primary" href="/arcane-docs">Arcane</a>
-            <p>Stream-based horizontally scalable data ingestion platform</p>
+            <p>Scalable Data Streaming Framework</p>
             </div>
         </div>
          <div class ="column">
             <img src="images/beast-logo.png" width="100" height="100">
             <div style="margin-top: 15px">
             <a class="btn btn-coming-soon" href="/beast-docs">Beast</a>
-            <p>Kubernetes workload manager for Spark based on Akka.NET</p>
+            <p>Serverless Apache Spark</p>
             </div>
+            <p class="txt-coming-soon">Coming soon</p>
         </div>
          <div class ="column">
             <img src="images/crystal-logo.png" width="100" height="100">
             <div style="margin-top: 15px">
             <a class="btn btn-coming-soon" href="/crystal-docs">Crystal</a>
-            <p>High-performance runner for containerized machine learning algorithms.</p>
+            <p>Serverless AI/ML Execution Framework</p>
             </div>
+            <p class="txt-coming-soon">Coming soon</p>
         </div>
          <div class ="column">
             <img src="images/boxer-logo.png" width="100" height="100">
             <div style="margin-top: 15px">
             <a class="btn btn-coming-soon" href="/boxer-docs">Boxer</a>
-            <p>Authorization API with Signature Based Authentication Provider</p>
+            <p>JWT-Based Authorization API</p>
             </div>
+            <p class="txt-coming-soon">Coming soon</p>
         </div>
     </div>
 </div>
