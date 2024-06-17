@@ -12,14 +12,12 @@ tagline: Set of scalable open-source solutions for building data platform
 }
 
 [data-bs-theme='dark'] .txt-coming-soon {
-  border-color: rgb(227,255,215);
   color: rgb(227,255,215);
   border-style: dotted;
   border-radius: 7px;
 }
 
 .txt-coming-soon {
-  /*border-color: rgb(248, 249, 250);*/
   color: rgb(0,0,0);
   border-style: dotted;
   border-radius: 7px;
